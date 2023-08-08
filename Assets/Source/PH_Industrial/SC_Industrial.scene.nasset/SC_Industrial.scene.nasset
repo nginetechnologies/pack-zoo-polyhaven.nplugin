@@ -1,0 +1,118 @@
+{
+    "guid": "9de529d4-24bb-aaa4-1850-7c441285b24d",
+    "source": "../SC_Industrial.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "952e69ce-cf5b-564e-9680-1accac101e4b",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Industrial"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "807f93e7-1805-7eef-b70e-269b3fc02716",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wet Floor Sign"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aba85906-7c86-faf0-f05e-2917c74e87f9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "650ec257-f116-ba8a-4c6d-d926712b64f1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spray Paint"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "685ddc61-57d6-397e-38f8-3b5be7189696"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "239e0257-00f2-6996-9623-6ad8002556a3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Multi Cleaner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dd038eae-a0d7-4a81-f762-fa0960a25649"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7effd008-2be2-917f-07c6-d7a7545ea62a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Compost"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "08ccdb63-84cf-84d7-4371-d2fe1f8e512d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e6250c73-9eed-44a9-8f64-91a0fcbaf9d0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cardboard Box"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "97bb5f84-7958-50ca-45cd-75277e983903"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e3b4a54f-6715-d64d-e8d9-788ea3d1538d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrel 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f714749f-401d-2ace-2e79-e2b233d94df6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "51057ebf-6926-270a-a50b-a04e24e3c004",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrel 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0806d42d-98cf-0f4a-81a7-9bf2ef1dfd37"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9de529d4-24bb-aaa4-1850-7c441285b24d"
+    },
+    "dependencies": [
+        "aba85906-7c86-faf0-f05e-2917c74e87f9",
+        "685ddc61-57d6-397e-38f8-3b5be7189696",
+        "dd038eae-a0d7-4a81-f762-fa0960a25649",
+        "08ccdb63-84cf-84d7-4371-d2fe1f8e512d",
+        "97bb5f84-7958-50ca-45cd-75277e983903",
+        "f714749f-401d-2ace-2e79-e2b233d94df6",
+        "0806d42d-98cf-0f4a-81a7-9bf2ef1dfd37"
+    ]
+}

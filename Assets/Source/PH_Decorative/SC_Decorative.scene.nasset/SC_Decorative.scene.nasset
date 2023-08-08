@@ -1,0 +1,524 @@
+{
+    "guid": "df322a57-f4fc-b14f-8eae-e0d2c4171588",
+    "source": "../SC_Decorative.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "4d35dffc-4cce-880e-65c7-fc44b14b2399",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Decorative"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fd23c28b-2226-51b1-0b52-24eab05a628e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wicker Basket"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "daef0fe4-9635-9541-d1fe-63831e5ea8f0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5a50bec6-cbc5-4be7-6813-fc7b1e9759fd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Treasure Chest"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "215c9148-d071-5bb4-f6dd-054ea625dc7c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "180339b4-220a-cf31-4cfd-ecb23d5e3f56",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Potted Plant 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2f21248d-32b4-0757-9c62-7efb1e3c2d2b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "659c04d6-f767-4858-8dd9-da3619ecf4a5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Potted Plant 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8d237a27-6cad-0cc2-765f-db32b646af15"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "74fd4ddd-25a5-f0bd-d2b0-fa4983bb3e82",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Potted Plant 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9ea3308b-f030-c8c5-57f6-fdaf540d49d2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "21106e49-96c1-2168-b43b-2adeaec8d1c5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pot Enamel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "473a5174-341d-90a6-4364-07f1c6e603c8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "270e8e54-7b4f-c4a6-4bab-c59cbd4920ae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Planter Box 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cdc64486-406a-3cc5-67a6-7a2c48b9f7c4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "05876140-5945-4e71-a837-f903d5fe7e3d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Planter Box 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fbb9c26d-f2c2-c775-528f-f2bcac6cfc51"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b29ad73c-4753-502a-96bd-e7f16a281aff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Planter Box 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af8e8044-e9cf-03de-504a-015f88056929"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "721b08bc-178d-3e93-abdc-af7e0e3ce4ad",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillows"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ebbe2504-b92e-c1a1-b442-b0613fa2b379"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2f941b6e-8850-ab6a-fdad-7f50d495ce88",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Picture Frame 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "36d26ae7-e69c-b1aa-5945-1e8947916ed5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "185ee35e-698c-543c-e77a-85a69a47af88",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Picture Frame 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "85176993-e07c-5c56-1554-167baf18fc8f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fe4a942d-71f0-0660-5687-e550805ec699",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Picture Frame 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "79246d26-765a-e75b-7bf9-ec3a13cbbc46"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e44b4c30-773b-1783-ba3f-20a66cf5b7d2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Picture Frame 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "91f7513d-20a5-d130-cd07-e0788e71dec3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7b40aa6f-005a-7109-f829-0083cefa86d5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Picture Frame 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "893a5bbb-548d-bd09-7837-32b3edfabe0f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8ba9f784-6425-38ad-4271-8535425d4916",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Marble Bust"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a5b74334-5bd9-106f-6ac8-c972dc97e842"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2037033b-2f49-d01d-7dec-7487b1dd754d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Katana Stand"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0a6c40d6-01ce-8f38-0f79-3ca121718234"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0b9f69b8-99b3-9128-0c4d-283bbf2fba64",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Jug 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9908623f-32f9-3078-b2ed-85ca6cfe4571"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4c9c085f-8bb5-82b1-1c57-d19fac98d67a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Horse Statue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f79ca09d-5697-5103-5d33-8fd942d7d5d8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6d808b0c-9bb4-24e3-3e67-22619c5866ca",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hanging Picture"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2ffc4fd-c648-42ca-098e-886e12878225"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0958fe98-3aa8-9efb-c51e-10e73d43ce03",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Garden Gnome"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2d371b4a-c208-c6af-98b9-7426cc3f3203"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "691ee6fd-f84e-567a-d384-5a4881d4101c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Encyclopedia"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b9b27680-26f0-3ffa-36ca-01dd67a37246"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1852e5a0-6233-d37c-655d-60cc595dd28c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dartboard"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "06dd64d3-fe1a-75c0-7d3a-16917e9bbac9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e2ed8c5a-c2b4-11b8-9533-9845f97b5a9f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chalkboard Stand"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2f33f78a-c8d4-4d29-b585-37698f570190"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d4412af8-8661-57f7-efdf-0e960d32656d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ceramic Vase 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5a967b18-b336-1012-91f9-685431fad6eb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f2a343e2-9510-874a-446d-f7b23fceb37e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ceramic Vase 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded1ab27-918d-299b-c924-83351860e574"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b597470d-4b96-7626-3ffa-2c478ab7779f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ceramic Vase 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cb36e59f-f70c-d955-bb4a-a6713f0b02e9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b3ac412d-738c-8931-da87-19f75d24eb8a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ceramic Vase 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2bf75d4-d7bb-5e27-164c-22eef184041b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "472ece28-6539-7bb0-50b2-eb9f4db3c44f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ceramic Vase 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b108de96-bffe-627a-5ee8-13005e3c9e9c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "94d418d5-289f-bfd5-ba7e-3eddc81a37d3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brass Vase 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6a5a8668-2f16-fb28-f01e-680bf2c50f0c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ea202da2-8d13-4c2b-03ef-b275f2659530",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brass Vase 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "53fc882d-ee53-8de0-09af-331a79756cd5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "39744a06-305f-1efe-bed3-f8562045d2f3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brass Vase 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a4274411-8b5d-73da-7855-7fffa0a9da90"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "76205f0f-635d-5f7c-794c-74728d1b1ded",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brass Pot 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb785798-1f41-fae3-071e-afe05fc50af3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "05c06ec0-5c36-451e-b769-a7ad2c54bc10",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brass Pot 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fe304a0a-aa5e-3448-258b-1b115dd3d022"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b071468e-29c4-d055-02c4-01a6f75878b5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brass Pan 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d4357388-3d7a-111d-a2c4-c27c77341c99"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "860b0022-d66d-048a-ee67-a97cd228d052",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Alarm Clock"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0cbc3d89-bd64-5fa3-db54-750c3b2817c8"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "df322a57-f4fc-b14f-8eae-e0d2c4171588"
+    },
+    "dependencies": [
+        "daef0fe4-9635-9541-d1fe-63831e5ea8f0",
+        "215c9148-d071-5bb4-f6dd-054ea625dc7c",
+        "2f21248d-32b4-0757-9c62-7efb1e3c2d2b",
+        "8d237a27-6cad-0cc2-765f-db32b646af15",
+        "9ea3308b-f030-c8c5-57f6-fdaf540d49d2",
+        "473a5174-341d-90a6-4364-07f1c6e603c8",
+        "cdc64486-406a-3cc5-67a6-7a2c48b9f7c4",
+        "fbb9c26d-f2c2-c775-528f-f2bcac6cfc51",
+        "af8e8044-e9cf-03de-504a-015f88056929",
+        "ebbe2504-b92e-c1a1-b442-b0613fa2b379",
+        "36d26ae7-e69c-b1aa-5945-1e8947916ed5",
+        "85176993-e07c-5c56-1554-167baf18fc8f",
+        "79246d26-765a-e75b-7bf9-ec3a13cbbc46",
+        "91f7513d-20a5-d130-cd07-e0788e71dec3",
+        "893a5bbb-548d-bd09-7837-32b3edfabe0f",
+        "a5b74334-5bd9-106f-6ac8-c972dc97e842",
+        "0a6c40d6-01ce-8f38-0f79-3ca121718234",
+        "9908623f-32f9-3078-b2ed-85ca6cfe4571",
+        "f79ca09d-5697-5103-5d33-8fd942d7d5d8",
+        "d2ffc4fd-c648-42ca-098e-886e12878225",
+        "2d371b4a-c208-c6af-98b9-7426cc3f3203",
+        "b9b27680-26f0-3ffa-36ca-01dd67a37246",
+        "06dd64d3-fe1a-75c0-7d3a-16917e9bbac9",
+        "2f33f78a-c8d4-4d29-b585-37698f570190",
+        "5a967b18-b336-1012-91f9-685431fad6eb",
+        "ded1ab27-918d-299b-c924-83351860e574",
+        "cb36e59f-f70c-d955-bb4a-a6713f0b02e9",
+        "d2bf75d4-d7bb-5e27-164c-22eef184041b",
+        "b108de96-bffe-627a-5ee8-13005e3c9e9c",
+        "6a5a8668-2f16-fb28-f01e-680bf2c50f0c",
+        "53fc882d-ee53-8de0-09af-331a79756cd5",
+        "a4274411-8b5d-73da-7855-7fffa0a9da90",
+        "fb785798-1f41-fae3-071e-afe05fc50af3",
+        "fe304a0a-aa5e-3448-258b-1b115dd3d022",
+        "d4357388-3d7a-111d-a2c4-c27c77341c99",
+        "0cbc3d89-bd64-5fa3-db54-750c3b2817c8"
+    ]
+}

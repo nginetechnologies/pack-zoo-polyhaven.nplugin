@@ -1,0 +1,76 @@
+{
+    "guid": "0ddda066-4352-8c52-7ffa-ec4c7cd5354a",
+    "source": "../SC_Appliances.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "73bf3750-eca6-9283-2d91-d04df46bbf1e",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Appliances"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "891b1b5f-22bd-f060-ca46-dd3e30e0334c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cash Ragister"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e3fd998a-e84f-f6e6-28f4-5bd9329e53af"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "44eaddee-0ac2-d3f6-779d-6c5786b3fe74",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sprinkler"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f10640fc-f044-bfe7-ee37-8535c7ecc577"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "610439d5-8123-c930-ba82-be859cef6392",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mantel Clock"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "66e5ff4e-283e-c31d-a5c7-00836d279936"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b0dd8002-2f54-6b46-8249-f704015f9668",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grandfather Clock"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b81acb7e-45d4-30e9-a67c-51da87391445"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0ddda066-4352-8c52-7ffa-ec4c7cd5354a"
+    },
+    "dependencies": [
+        "e3fd998a-e84f-f6e6-28f4-5bd9329e53af",
+        "f10640fc-f044-bfe7-ee37-8535c7ecc577",
+        "66e5ff4e-283e-c31d-a5c7-00836d279936",
+        "b81acb7e-45d4-30e9-a67c-51da87391445"
+    ]
+}

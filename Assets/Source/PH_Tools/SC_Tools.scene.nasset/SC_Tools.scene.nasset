@@ -1,0 +1,342 @@
+{
+    "guid": "885a2c07-afb8-a020-bca6-d00abfb7cef3",
+    "source": "../SC_Tools.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "6e13ddff-4fd0-c2f0-3c6e-02d1a52b3dac",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Tools"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ca8af5e1-4612-95b7-af95-63bdd75ffbbd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wooden Hammer"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "155ad888-7c8c-619d-5814-a86a04d50b3d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2477ecf8-4ab1-70d0-b800-ac021a749701",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Watering Can"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d8e87b01-086f-b3f9-cc71-610a266eec06"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a0c0df20-e26f-ea5f-a625-b3417f9451b7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trowel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8eef596d-2c97-858f-00e2-ebfde5d0f9a7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0ef89007-dfbe-56df-f9b4-5fd821fdbd8c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tire Pump"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6ed355d9-d10c-a337-1424-fb251703b83d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f3a99557-24bc-af13-f544-d38115d36eaa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spinning Wheel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3e039bdd-a6f0-566a-cfbf-de0521e0a3d4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6e3db8b7-db65-16fa-22a5-a768c025e6b0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spade"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "77c8e1a9-8c50-d66e-1811-92e9848049ae"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a7524b12-5de3-7174-cc9b-6b381cb28824",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sledgehammer"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e833de5e-d085-a68f-7b1b-dea48c2416ae"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c8423c8e-62e0-ee98-fbcd-54917ea9756a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Screwdriver"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "59abd34f-f04f-1f3a-2087-a968caa9c42c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4cb6c5b2-027c-4729-f146-16ea1b35a6a9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ratchet Wrench"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0e1a7cc0-5abb-9444-1596-94e2f92e9da1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "036b21bd-7337-ebad-1941-f9a12df0c570",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pickaxe"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0800d686-c27b-a369-5944-8697c2ab7168"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8a142f55-3b60-a484-533d-217425e60738",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Old Drill"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4dd5f50-d1ee-3d10-a6c3-3021c758338e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "52f759d3-c386-08f1-7fc6-4307316fb970",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Oil Can"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "411890a1-7542-2252-32e9-d844d3d3a7ac"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8900446d-b3f2-2c11-86c6-2b3da06018d1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tool Chest"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "22491cd1-31e6-a8fe-ed46-410e8f76a3b8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ff876af4-066e-015f-7575-0cc4c1e957ff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Measuring Tape"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cd75cc1d-2b9a-ef60-5572-ba2a913c9331"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fd5fd5f4-7d4e-16b5-48c0-a306cbc921bd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Magnifying glass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f9ee5bd2-41d4-5b5e-9e5b-de13fa06e7cd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bcf1e1b1-0e0b-cb6a-836b-963c7ac7e99e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lubricant Spray"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1ea8088c-4be4-26c5-8781-2a83b77572e3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "34dccdb5-6687-3e6d-54f3-c58fb08ba104",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ladder"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "065fb506-f053-4a03-dc23-694170e61cdc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "037cbe1b-5d8a-17db-dcbe-5184de3d3010",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Handsaw"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "045e3813-ae36-5341-2819-a6a7f2606541"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b78fe51f-3a46-bb1d-cd0f-178ea911986d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hand Plane"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f7b8bed3-65bf-3894-c7d6-6e642f4e50a3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3903bff9-64c0-dcb4-949e-35ab19d741d2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crowbar"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1216b30c-878e-bc04-3ba6-4a059cc75428"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "61961e26-0059-128a-8bd8-dffe7f18bc92",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cleaner Tin"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cf9a74e1-7857-dddf-96f8-5336640fd52f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "66a54265-7d0b-170c-d287-44b103b2ac83",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bolt Cutters"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "02cb0698-78e1-e8e6-8128-28b684ec8039"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dc685cbd-20f2-7340-aa8c-d60879cd5b16",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bench Vice"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ae4a51c6-73c2-a5b3-12a2-eb6978da4d9a"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "885a2c07-afb8-a020-bca6-d00abfb7cef3"
+    },
+    "dependencies": [
+        "155ad888-7c8c-619d-5814-a86a04d50b3d",
+        "d8e87b01-086f-b3f9-cc71-610a266eec06",
+        "8eef596d-2c97-858f-00e2-ebfde5d0f9a7",
+        "6ed355d9-d10c-a337-1424-fb251703b83d",
+        "3e039bdd-a6f0-566a-cfbf-de0521e0a3d4",
+        "77c8e1a9-8c50-d66e-1811-92e9848049ae",
+        "e833de5e-d085-a68f-7b1b-dea48c2416ae",
+        "59abd34f-f04f-1f3a-2087-a968caa9c42c",
+        "0e1a7cc0-5abb-9444-1596-94e2f92e9da1",
+        "0800d686-c27b-a369-5944-8697c2ab7168",
+        "c4dd5f50-d1ee-3d10-a6c3-3021c758338e",
+        "411890a1-7542-2252-32e9-d844d3d3a7ac",
+        "22491cd1-31e6-a8fe-ed46-410e8f76a3b8",
+        "cd75cc1d-2b9a-ef60-5572-ba2a913c9331",
+        "f9ee5bd2-41d4-5b5e-9e5b-de13fa06e7cd",
+        "1ea8088c-4be4-26c5-8781-2a83b77572e3",
+        "065fb506-f053-4a03-dc23-694170e61cdc",
+        "045e3813-ae36-5341-2819-a6a7f2606541",
+        "f7b8bed3-65bf-3894-c7d6-6e642f4e50a3",
+        "1216b30c-878e-bc04-3ba6-4a059cc75428",
+        "cf9a74e1-7857-dddf-96f8-5336640fd52f",
+        "02cb0698-78e1-e8e6-8128-28b684ec8039",
+        "ae4a51c6-73c2-a5b3-12a2-eb6978da4d9a"
+    ]
+}

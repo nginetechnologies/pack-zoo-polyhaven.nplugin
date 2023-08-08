@@ -1,0 +1,650 @@
+{
+    "guid": "0683a663-3f2d-f30b-ec61-05ba67bc2818",
+    "source": "../SC_Furniture.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "442ae2a4-8180-f033-2577-5ef09548effc",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Furniture"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a6d4278a-156b-a0ba-1014-f77d3d1f59f8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arm Chair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "eff73864-fc96-863f-78c8-5a1d4f27e824"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dbdea18e-1706-26c0-604f-4c743f6b302c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bar Chair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a0430ccf-84cb-4e6d-6e5d-a60daeb2fe67"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "56c30f14-04e8-ecce-985a-29113236d56b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barber Chair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2ff87832-c540-f0c9-841b-424f6c97b7eb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2a9774b9-7765-dbca-74f7-6a921e6605ff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bookshelf"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "81948082-750b-377d-be16-9506100cac3b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9649838e-fa7f-473c-93af-a383cd2a533b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cabinet"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "80689cf8-c08d-b0b5-88fd-9e7f1243972e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c1a78dfd-bb10-0652-b573-2c5f8d9f8dc7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cabinet Vintage"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7b0ae1c6-eb03-eddf-328c-794cc3830a2b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e34e82ce-6c55-d188-41ac-47e965d2d696",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chair Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4cd5f1c-972f-b612-d83e-5870b64b3813"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c67a8cf5-30b3-b211-55e3-61dd8697ae1c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Classic Console"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "323ffd73-7d5c-7c2e-b90e-91f1117291c3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3be5eb4b-fd30-3e55-ab17-738728b45cc9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coffee Cart"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aa128dbf-239c-de28-8d3c-1bcc61184904"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "98f26be4-d0ea-bb15-ba12-8d6d275b1598",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coffee Table 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "476d2536-de9f-da79-315c-818a655a8152"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "11d072a5-95de-6fea-3cb1-dc6df62d1562",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coffee Table 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d882f05a-c4df-3397-bcd4-6569518ceef7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3cbdbe2e-e3fc-5587-3045-247f869198f7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coffee Table 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ab60ed4f-82ad-1cc1-8404-23512069c521"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "73d7b47f-ee26-2586-d517-b9ba1bdecfa1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dining Chair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "903202a3-c42a-fcef-58b1-ab80000bbcad"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "98786f9e-ea66-ecf6-7bce-5fd478c02d98",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gothic Bed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "56a7ce6d-6247-93c2-9fb8-1fbf703b2964"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f830c55d-0cb2-4509-3530-c9c795a94d09",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gothic Cabinet"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "689043c5-ad46-40a4-9405-586ae89e277f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aaa67262-b188-b14c-14b0-0503e8f14b28",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gothic Chest"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6fd28d68-4c40-891c-188a-08fdc3f9e994"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "19579488-c082-396b-cd05-c23efeb8e7f1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mirror Ornate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "876e3947-07c3-cb3e-c17b-0dda83832c5a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "25753bfd-cb12-f65b-808a-0ca1929d3f0d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Modern Arm Chair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "219f273b-63fe-08c9-f29a-e2ca5caf141e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "62b6306a-b9b4-2b9e-abd1-cb5e741485f6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Modern Coffee Table"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a2fdf802-85d0-88e2-1a1d-9fa44e6da57c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "75991dff-21c1-36e2-8e0d-df7c0c7b4530",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Nightstand"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "28feb7f6-4b42-3773-629a-4f497b8708ab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8e5c2192-1697-abd0-9754-9776c3331f15",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outdoor Chair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8cb0df32-ffb8-041b-ce2f-ff9bb225d663"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b541ecd3-2e88-5084-6b2b-01b66da02946",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outdoor Table"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "82dff871-a4ff-980b-48ca-1de11d84fce5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "80c3d7a5-104f-798d-3c3b-032aefab65a5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plastic Chair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "45f85006-12d9-21c9-dbe6-39fed1b1e835"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3864500e-7963-f000-7a15-084ca4cb408b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rocking Chair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "eaaa7512-4c73-21a8-1658-88670afa0786"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e21c6cf1-4796-be04-937a-ba637a6e8ae9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Round Wooden Table"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9e34d996-27aa-0997-7427-973b45ade17a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b6a8ce5b-d938-df2a-15f0-229986809ab7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "School Chair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6bdf961c-7608-1831-e4bb-a11adf1e6592"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1fd211f7-4cfc-3d50-84e5-325359927086",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "School Desk"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cf801dbd-0d79-5b89-17a1-1802847788ef"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b8146501-b5ec-309b-f5b4-1c3bb35489e8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shelf 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "41ee5b4f-c183-7007-561e-904c86e2942f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ef6b405a-57fd-8787-395e-901807c62112",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shelf 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "77b09b33-22e3-d090-bf06-6778c78b5cfc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "91e6578c-ef16-55c2-cb9d-1599ce50b911",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Table 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "94d55d26-8b86-b7b9-6696-08b0ebe7dd67"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a12f678b-7056-c2f5-ca69-df52667c00b5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Table 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "27cc3303-d0fc-e976-1230-e614510bb218"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a7f40110-1c2e-18b8-24b9-336582990b6c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sofa 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9fd1a44f-8166-0ccb-69eb-0a59ddb5e879"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "49948d66-5d72-f687-12d3-072c265b6ccb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sofa 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "623d5ca5-9d1d-bca7-d05c-21fe8d51a2cf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bf4a5157-62f0-69c7-6147-1c6237155516",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Steel Shelves"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fbe47a98-d03a-d9b8-0313-f1f2c580e0a1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cffc93db-053d-d8d3-33ab-585abd1cfaae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gothic Chair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "691c7c84-bffb-c7d6-ab28-576cfad67960"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9e5180b0-e23d-92d7-fbb4-e57683e34049",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Stool"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1a400e99-2e89-ebac-45fb-49e52d599407"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "23164c2f-a829-4188-b410-016a6bd55423",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Table 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0cb7292d-bd29-6c11-9167-4c356986b970"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9387a766-bea1-464d-1522-d7bb0a4d9cbd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Table 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6f0f6f1e-b6b3-433a-8b6a-70477b2715e8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fac93a48-d1c0-1639-8b8c-9b1690fef597",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Table 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3b47323e-0c61-ee72-2157-730fd097cd25"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "16d7d57f-48a4-47bd-3982-14f1e8a79ce1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Table 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "69486cd9-931d-c0a2-087d-489eb5f88183"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a0e35db0-2fd8-ee28-93e0-4df2117413b2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wooden Cabinet"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "826280ea-c7c8-d7ec-c14f-99ca42739d40"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b7742c0e-b800-377c-f756-26f61cdd2eb3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Chair Painted"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "23705cb3-22b9-d75b-7b72-97ea589482c7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f1496f6d-8956-f38f-a576-04f373940bd7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Dresser"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2ce868ca-9ed2-2211-ce8b-05177bf00500"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2e5b5b63-b933-bf5d-ebbd-c42c0d6c6896",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wooden Shelves"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "65243614-cddb-339d-b4b4-5b97caea9965"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "39b16711-376a-6e06-11da-7b20cc5734f2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Table 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a20e5500-68cc-de07-7dc2-809aff974cad"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0683a663-3f2d-f30b-ec61-05ba67bc2818"
+    },
+    "dependencies": [
+        "eff73864-fc96-863f-78c8-5a1d4f27e824",
+        "a0430ccf-84cb-4e6d-6e5d-a60daeb2fe67",
+        "2ff87832-c540-f0c9-841b-424f6c97b7eb",
+        "81948082-750b-377d-be16-9506100cac3b",
+        "80689cf8-c08d-b0b5-88fd-9e7f1243972e",
+        "7b0ae1c6-eb03-eddf-328c-794cc3830a2b",
+        "c4cd5f1c-972f-b612-d83e-5870b64b3813",
+        "323ffd73-7d5c-7c2e-b90e-91f1117291c3",
+        "aa128dbf-239c-de28-8d3c-1bcc61184904",
+        "476d2536-de9f-da79-315c-818a655a8152",
+        "d882f05a-c4df-3397-bcd4-6569518ceef7",
+        "ab60ed4f-82ad-1cc1-8404-23512069c521",
+        "903202a3-c42a-fcef-58b1-ab80000bbcad",
+        "56a7ce6d-6247-93c2-9fb8-1fbf703b2964",
+        "689043c5-ad46-40a4-9405-586ae89e277f",
+        "6fd28d68-4c40-891c-188a-08fdc3f9e994",
+        "876e3947-07c3-cb3e-c17b-0dda83832c5a",
+        "219f273b-63fe-08c9-f29a-e2ca5caf141e",
+        "a2fdf802-85d0-88e2-1a1d-9fa44e6da57c",
+        "28feb7f6-4b42-3773-629a-4f497b8708ab",
+        "8cb0df32-ffb8-041b-ce2f-ff9bb225d663",
+        "82dff871-a4ff-980b-48ca-1de11d84fce5",
+        "45f85006-12d9-21c9-dbe6-39fed1b1e835",
+        "eaaa7512-4c73-21a8-1658-88670afa0786",
+        "9e34d996-27aa-0997-7427-973b45ade17a",
+        "6bdf961c-7608-1831-e4bb-a11adf1e6592",
+        "cf801dbd-0d79-5b89-17a1-1802847788ef",
+        "41ee5b4f-c183-7007-561e-904c86e2942f",
+        "77b09b33-22e3-d090-bf06-6778c78b5cfc",
+        "94d55d26-8b86-b7b9-6696-08b0ebe7dd67",
+        "27cc3303-d0fc-e976-1230-e614510bb218",
+        "9fd1a44f-8166-0ccb-69eb-0a59ddb5e879",
+        "623d5ca5-9d1d-bca7-d05c-21fe8d51a2cf",
+        "fbe47a98-d03a-d9b8-0313-f1f2c580e0a1",
+        "691c7c84-bffb-c7d6-ab28-576cfad67960",
+        "1a400e99-2e89-ebac-45fb-49e52d599407",
+        "0cb7292d-bd29-6c11-9167-4c356986b970",
+        "6f0f6f1e-b6b3-433a-8b6a-70477b2715e8",
+        "3b47323e-0c61-ee72-2157-730fd097cd25",
+        "69486cd9-931d-c0a2-087d-489eb5f88183",
+        "826280ea-c7c8-d7ec-c14f-99ca42739d40",
+        "23705cb3-22b9-d75b-7b72-97ea589482c7",
+        "2ce868ca-9ed2-2211-ce8b-05177bf00500",
+        "65243614-cddb-339d-b4b4-5b97caea9965",
+        "a20e5500-68cc-de07-7dc2-809aff974cad"
+    ]
+}

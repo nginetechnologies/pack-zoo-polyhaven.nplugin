@@ -1,0 +1,123 @@
+{
+    "guid": "07130517-e149-5770-5c98-a30023b4a36e",
+    "source": "../SC_Electronics.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "98dc4c4f-9667-5e03-af52-543885c2d5b6",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Electronics"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f777e9e9-e726-1ae9-1bd1-8886a320a36d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Television"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e196c6f4-51b4-f6b8-6929-0a01dd6d23ea"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "96521562-bfbd-60bc-446f-fc7138571ddd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Power Drill"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7e7c9bd1-0eda-3538-ccce-db59baa89c01"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "36fcf350-11d6-6360-a8dc-e1cca3050fd4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Power Box"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a36b31ed-c1b3-55d7-a3c8-d7f4132eb706"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6debb21c-61d0-8467-b258-bf792d0d59bf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Megaphone"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "20f98d57-bf9b-bda8-eb26-4bf399401d01"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7bb48c6e-9d86-4e5a-f960-3e5fc1ffb0f7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cassette Player"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0015,
+                    -0.0435,
+                    -0.0208
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c8df36f2-966f-1d63-9040-d259c0a6ae1d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d525f190-f916-aaf2-55a9-bf361d60e822",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Camera"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1da97166-bca8-9393-9553-6236483e1753"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "07130517-e149-5770-5c98-a30023b4a36e"
+    },
+    "dependencies": [
+        "e196c6f4-51b4-f6b8-6929-0a01dd6d23ea",
+        "7e7c9bd1-0eda-3538-ccce-db59baa89c01",
+        "a36b31ed-c1b3-55d7-a3c8-d7f4132eb706",
+        "20f98d57-bf9b-bda8-eb26-4bf399401d01",
+        "c8df36f2-966f-1d63-9040-d259c0a6ae1d",
+        "1da97166-bca8-9393-9553-6236483e1753"
+    ]
+}

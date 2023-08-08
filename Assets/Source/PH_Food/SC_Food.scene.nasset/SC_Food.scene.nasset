@@ -1,0 +1,160 @@
+{
+    "guid": "06fc9af9-8638-30c8-4ca9-4640bec2967f",
+    "source": "../SC_Food.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d1d85334-1841-27dc-aec6-7bcb1e320230",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Food"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "174c4bbf-4037-bb6f-40b0-2d2f2c44952c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Apple"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "472ffbf5-2353-4ac0-e4c7-cd032624ba6b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4c8554d7-d30e-2391-c618-108e8fc38eb3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Avocado"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e91551a6-d0c6-9dc3-5daf-860d49face78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "eaddb18e-cc3b-821a-7668-71c4c75780c8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Carrot Cake"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb57c3c4-4776-ce88-b657-e938ccbfc202"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4a71da9f-84dc-9cfd-427f-b4f12678247e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Croissant"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb3719cc-120d-33b7-1dab-94d2c1b0f281"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "030e1c7b-6e57-411d-6b95-1f45008ad9ef",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ginger"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "860d728b-f719-c906-e25d-2291a0d7fd7d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bebed3a4-3b4b-e89d-5b43-2f62ec7a3cd8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Kiwi"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "50b15f5c-a032-29ef-c6b6-aa5aedb1528f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9377955d-3bbf-665c-7160-21b7d64d2cde",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lime"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e9e810d7-57cd-3a40-0340-d84886b94356"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7d484e7c-a8b9-5a64-9e01-6c77af9d84bb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lychee"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0421b35f-3cad-78e3-d856-cf198bf7c538"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a2d587b8-b8ab-5c05-ebdc-bc5400ea3095",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pears"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "864b92a3-3c24-d4f5-d384-01f73838a1ed"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8ecc907a-7c74-252e-1019-88e40fa90542",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pomegranate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "136feb7f-7bd8-512a-fcd4-5a3c25887736"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "06fc9af9-8638-30c8-4ca9-4640bec2967f"
+    },
+    "dependencies": [
+        "472ffbf5-2353-4ac0-e4c7-cd032624ba6b",
+        "e91551a6-d0c6-9dc3-5daf-860d49face78",
+        "fb57c3c4-4776-ce88-b657-e938ccbfc202",
+        "fb3719cc-120d-33b7-1dab-94d2c1b0f281",
+        "860d728b-f719-c906-e25d-2291a0d7fd7d",
+        "50b15f5c-a032-29ef-c6b6-aa5aedb1528f",
+        "e9e810d7-57cd-3a40-0340-d84886b94356",
+        "0421b35f-3cad-78e3-d856-cf198bf7c538",
+        "864b92a3-3c24-d4f5-d384-01f73838a1ed",
+        "136feb7f-7bd8-512a-fcd4-5a3c25887736"
+    ]
+}

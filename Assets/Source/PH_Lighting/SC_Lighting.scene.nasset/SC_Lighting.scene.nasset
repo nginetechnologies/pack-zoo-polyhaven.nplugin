@@ -1,0 +1,188 @@
+{
+    "guid": "8a3071e8-e4dd-28b0-81df-4e46860e8771",
+    "source": "../SC_Lighting.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b5af1665-9bd4-956d-320d-867c6772785d",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Lighting"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "edaa6c6e-b1e3-9d3c-e49a-caddd8352148",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Oil Lamp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "22bac9f7-d09f-9ad7-bdee-232e439a8022"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "39e4c8cd-835b-2066-9908-0c7bedc46a62",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Light Bulb"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0978da98-bdb8-a062-7676-a4ea4008f376"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "24455d2f-b17e-a91f-606d-b6eb411ac79e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lantern Wooden"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d91503fa-9e6b-bbd4-ba7c-b9b7abd1478d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3d26dac4-3dcd-9d4e-8655-240a3903ec94",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lantern Brass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ac5ebb53-7ec3-3f9d-2e31-9829f7059143"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1514ccde-7d4b-34ce-fb7b-cc06a2c8c62e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lantern"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "72e1a9b3-b20a-36d7-a262-d1c7414b850c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d2f4d9e0-6c24-22dd-95eb-06e71b0b1bae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Desk Lamp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "51a8335e-571f-46da-d6cb-4ca419a6ab89"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5cce5e4d-8f98-9665-7803-3f263891bc5e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ceiling Lamp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "05f6b8ab-0767-5f41-bf0b-c18032e7563c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "47e1ed60-ad8f-217d-3f8d-44f982ab3866",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chandelier 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3c492d30-0a87-e0df-837a-0a918a45029d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6ae2dc7f-762f-07fd-2fb4-5d1fc5c31956",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chandelier 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "afc694c6-ce14-f378-bfb1-a5f4de072eec"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7db277fe-c9a0-c98f-32e0-8ac4969f6472",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chandelier 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "41ad0d42-80e0-d8d0-2f3e-bede288a2b90"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "314d1767-e732-79b9-db3a-428b234bed95",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chandelier 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f4886f23-07fd-b8c8-94c6-4f306e2da41d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fccf2b83-acc0-41bb-d58a-e590b7322882",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "LED Bulb"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5955aa38-7740-7caf-73a7-7b9bcbda4abc"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8a3071e8-e4dd-28b0-81df-4e46860e8771"
+    },
+    "dependencies": [
+        "22bac9f7-d09f-9ad7-bdee-232e439a8022",
+        "0978da98-bdb8-a062-7676-a4ea4008f376",
+        "d91503fa-9e6b-bbd4-ba7c-b9b7abd1478d",
+        "ac5ebb53-7ec3-3f9d-2e31-9829f7059143",
+        "72e1a9b3-b20a-36d7-a262-d1c7414b850c",
+        "51a8335e-571f-46da-d6cb-4ca419a6ab89",
+        "05f6b8ab-0767-5f41-bf0b-c18032e7563c",
+        "3c492d30-0a87-e0df-837a-0a918a45029d",
+        "afc694c6-ce14-f378-bfb1-a5f4de072eec",
+        "41ad0d42-80e0-d8d0-2f3e-bede288a2b90",
+        "f4886f23-07fd-b8c8-94c6-4f306e2da41d",
+        "5955aa38-7740-7caf-73a7-7b9bcbda4abc"
+    ]
+}
