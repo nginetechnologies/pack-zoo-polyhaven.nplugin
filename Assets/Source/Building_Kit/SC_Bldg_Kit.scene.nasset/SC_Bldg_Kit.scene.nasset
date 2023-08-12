@@ -1,0 +1,622 @@
+{
+    "guid": "ecbf2343-9dfd-83de-bc92-69c0f9227470",
+    "source": "../SC_Bldg_Kit.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "777037a5-5828-5033-33e5-36785d89491d",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Bldg Kit"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1e5dad03-604d-3149-31c8-fc3c76c89f26",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Interior Paint Wall Single Door"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5f43357b-cb3e-e208-fb47-c87e50e50672"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4080afb7-10f2-0a7b-f104-17e137b773c3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Single Door Wall Skirting"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ea1a87b8-9b89-52da-5fe7-9ae662c4cce5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4eaaec5f-555a-8162-785e-67d94f718936",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Interior Paint Wall Double Door"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2b058c3e-96bf-d473-ef7e-051fe8f48b67"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b99feda3-4645-50f5-138b-9f6e8276d676",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Double Door Wall Skirting"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "633aca35-b3dd-94b1-3b7a-d70b06fded2c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3230a2ee-2258-b3c3-e3ea-b7988def3ddb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Interior Painted Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "704a5b97-854f-1fbd-1fcd-bf89721104a0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6bdfddfe-360c-b990-eccc-dd012912d26a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Skirting"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e8214174-8db8-38b1-a107-8d694c5860b8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a571c953-e90d-c4e0-c72b-9620388f8419",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Single Door Bar"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "11a18d55-94d1-69d1-ca09-de134d8041eb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3709da77-b0e5-61ea-88df-b15e802146d6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Single Handle"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "12da62a4-f716-75ad-60d8-32c480593213"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "78aa802f-b2be-ffb2-994d-e985e5fc2b0e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ceiling 4M"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e611b4e2-1ce5-a467-0977-18210b02aca0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ae628644-3c3d-8a9a-022c-648a2d01d291",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ceiling 2M"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "19b75769-40aa-3974-cc46-235d68e4f4ef"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e0644c50-5292-d583-390d-78d82e955830",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ceiling 1M"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c26c1a1a-e0d2-003b-ca55-6e35a1e3c5c2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "137aff20-eaa2-1ed5-813b-c3aacd0e6aac",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plan Tiles 2M"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "46879f2b-6356-3422-c46a-805e2733cef5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0f972db2-5727-f5db-6af0-791ae7fcb025",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plan Tiles 4M"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9a5472f2-9cbc-b56f-5542-f9b29560c805"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "334eb1d8-38bc-f4f1-ec67-f8107be0f487",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Interior White Single Door Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f5fdbdcd-7eb4-ff4e-f922-2daecc2d110c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b26213e1-1d34-6684-43b1-3d39a8b8d611",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Interior White Painted Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "99a80e8d-8308-164d-49aa-610460bc1720"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2bf975fa-85c4-2beb-a137-6d11ea133473",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Interior White Double Door Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f40a7afc-cae2-f825-0aa9-fdb98df97615"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0c75082a-a90a-6f7f-c840-10215ea4dbe3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outside Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2a585c97-2a60-3132-bdab-492c18283263"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01ff7cf9-2a9b-a9f9-d835-e5539623e362",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outside Wall Single Door"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6f28840a-6ddd-0d5f-3a82-e05436c02262"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fc1f51ea-fa3a-0ae8-08b4-f4e08c3fab89",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outside Wall Double Door"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3cc84c8a-e45f-2760-140a-2d4ef57da418"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1d6d7d4a-df60-9562-09fb-1f971c083b65",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outside Wall Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bbc205f6-7090-36b9-bea8-89cdf5604e9c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3d877072-33c1-edaa-5992-d16223f562fd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Corner Brick"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "caf696ae-1d63-f7a9-54e1-bf6fa8da0f09"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0015b6a7-86c7-2ed8-84ff-8849b42a11e7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Single Door Flat"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ea99b2d8-8534-f5d2-0cc7-fae80cf5f485"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e0567f76-8baf-e357-92d7-97ba951dbf30",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Upper"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ea1de85e-47a4-67b6-8c3c-3bc5a359439d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7e2e4a47-ce97-0953-7e49-c1b0761345e9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Upper Stair Concrete"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7edbaa83-5340-4120-28a1-d379ee6ba284"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "885b4a5f-30a2-ff81-23a4-d8b23d573cd8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Lower"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b0c9f242-f7e1-fe73-ecba-c52cdc8d530f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0bf19976-f0a9-d1f5-f116-0b92ea0ea4d9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Double Window Blinds"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a75300db-886d-2436-339c-91e6f35be36c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bac8618a-7483-f9f2-df9f-88ff409e34cd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Double Window"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f4dc31fa-bac1-4c5e-1d64-0aa6dc1c16cb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "62da74e7-b8f4-0721-cf37-2b99112f15a3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Single Window"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2c2e3a98-aa0b-7e15-dd93-58f64fcdb775"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8f53dd06-beee-e482-e149-3c7dcbe93c01",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outside Wall Double Window"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "986ecef6-2e76-4daf-5cb7-6a6b5e53fd8c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "29714df7-c230-d855-a22e-7c0cd9c50e41",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Interior Paint Wall Window"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "59ea785f-7187-0478-497d-fb1815ead935"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "43de1207-4f08-f9f5-35e0-2bddab880027",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outside Wall Single Window"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a7c0f21c-6504-d17f-56b6-951cb52d43b0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2dad51c8-e537-2bb1-d799-58d97133e026",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Interior Paint Wall Small Window"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a7f93c2e-c92f-6a09-cefa-c6026fe4f159"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7e5d6986-9190-45b9-7948-dce307a30ba8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Steel Cap"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2dfe69cc-6ba6-2e4f-367f-a5446968a7b2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a45f6f32-ee57-6316-3b3a-73079a0d9c0a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Interior White Wall Window"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0108970d-4003-912f-41e4-12a11dffbf12"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6f964d96-0250-9952-deb3-874c3f0032d9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Interior White Wall Small Window"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cc2bc7d-1400-1dd9-c188-fb03910852b6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f3df5a07-967f-039b-4b92-42a99ef5b142",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stair Railings"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7da356aa-d9d9-5bdf-2b3c-2ab8eee2215a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7134ac32-5e8c-1c35-7451-2e7d87498f3e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "RoofTrim 4M"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a91c885b-20f6-18da-65b4-f1ae6e47f201"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3446e403-64c1-38c5-6558-497e07f91174",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Roof Trim Corner 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0626ca41-a319-925f-fd29-2905459db56d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "17126560-298e-2300-822d-09ca31724bc0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Roof Trim Corner 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "15c96f59-50ed-ecee-574b-16f67c33fb2c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "31d5f7af-2370-d147-46c8-1b3aa0ac7943",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outside Trim 4M"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5a28a48f-2e15-8430-923c-b63bbe01767c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1ee7e8b7-3ea4-1e91-5b50-d74ea6a41c45",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outside Trim Wall Double Door"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b724f32f-a7da-4f4a-8c34-e120211fa09e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "64fb7134-faf3-c470-6b42-3fd61c0cea4f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outside Trim Wall Single Door"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c94e938e-7a81-f428-313d-3f0527d383b6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "33fbb016-1aed-52e4-a0a4-d38c2ce823f4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outside Trim Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "66d64aa5-ecbd-3364-2f4a-b9a75f7861f0"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "ecbf2343-9dfd-83de-bc92-69c0f9227470"
+    },
+    "dependencies": [
+        "5f43357b-cb3e-e208-fb47-c87e50e50672",
+        "ea1a87b8-9b89-52da-5fe7-9ae662c4cce5",
+        "2b058c3e-96bf-d473-ef7e-051fe8f48b67",
+        "633aca35-b3dd-94b1-3b7a-d70b06fded2c",
+        "704a5b97-854f-1fbd-1fcd-bf89721104a0",
+        "e8214174-8db8-38b1-a107-8d694c5860b8",
+        "11a18d55-94d1-69d1-ca09-de134d8041eb",
+        "12da62a4-f716-75ad-60d8-32c480593213",
+        "e611b4e2-1ce5-a467-0977-18210b02aca0",
+        "19b75769-40aa-3974-cc46-235d68e4f4ef",
+        "c26c1a1a-e0d2-003b-ca55-6e35a1e3c5c2",
+        "46879f2b-6356-3422-c46a-805e2733cef5",
+        "9a5472f2-9cbc-b56f-5542-f9b29560c805",
+        "f5fdbdcd-7eb4-ff4e-f922-2daecc2d110c",
+        "99a80e8d-8308-164d-49aa-610460bc1720",
+        "f40a7afc-cae2-f825-0aa9-fdb98df97615",
+        "2a585c97-2a60-3132-bdab-492c18283263",
+        "6f28840a-6ddd-0d5f-3a82-e05436c02262",
+        "3cc84c8a-e45f-2760-140a-2d4ef57da418",
+        "bbc205f6-7090-36b9-bea8-89cdf5604e9c",
+        "caf696ae-1d63-f7a9-54e1-bf6fa8da0f09",
+        "ea99b2d8-8534-f5d2-0cc7-fae80cf5f485",
+        "ea1de85e-47a4-67b6-8c3c-3bc5a359439d",
+        "7edbaa83-5340-4120-28a1-d379ee6ba284",
+        "b0c9f242-f7e1-fe73-ecba-c52cdc8d530f",
+        "a75300db-886d-2436-339c-91e6f35be36c",
+        "f4dc31fa-bac1-4c5e-1d64-0aa6dc1c16cb",
+        "2c2e3a98-aa0b-7e15-dd93-58f64fcdb775",
+        "986ecef6-2e76-4daf-5cb7-6a6b5e53fd8c",
+        "59ea785f-7187-0478-497d-fb1815ead935",
+        "a7c0f21c-6504-d17f-56b6-951cb52d43b0",
+        "a7f93c2e-c92f-6a09-cefa-c6026fe4f159",
+        "2dfe69cc-6ba6-2e4f-367f-a5446968a7b2",
+        "0108970d-4003-912f-41e4-12a11dffbf12",
+        "2cc2bc7d-1400-1dd9-c188-fb03910852b6",
+        "7da356aa-d9d9-5bdf-2b3c-2ab8eee2215a",
+        "a91c885b-20f6-18da-65b4-f1ae6e47f201",
+        "0626ca41-a319-925f-fd29-2905459db56d",
+        "15c96f59-50ed-ecee-574b-16f67c33fb2c",
+        "5a28a48f-2e15-8430-923c-b63bbe01767c",
+        "b724f32f-a7da-4f4a-8c34-e120211fa09e",
+        "c94e938e-7a81-f428-313d-3f0527d383b6",
+        "66d64aa5-ecbd-3364-2f4a-b9a75f7861f0"
+    ]
+}
