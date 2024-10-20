@@ -1,0 +1,72 @@
+{
+    "guid": "0d7d1b55-ccee-22b2-b901-188c86fc505d",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "478522b0-40d1-d43b-85e6-3e9f36618ba8",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "31c8437c-5ae3-b14e-c4e4-2510acdc66e1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Planks Brown 10 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "59c5d1f0-a7c0-14ba-a281-5bc717a9702b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Planks Brown 10 Planks Brown 10 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "1a248e61-f4fc-b532-e970-40bbdcb060ba",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Planks Brown 10 Planks Brown 10"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a82c4dd6-ff04-151b-4e40-fc6fad170a6f",
+                                "material_instance": "9aff0377-8571-9d83-15cf-97faf5d5d31c"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "a82c4dd6-ff04-151b-4e40-fc6fad170a6f"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0d7d1b55-ccee-22b2-b901-188c86fc505d"
+    },
+    "dependencies": [
+        "9aff0377-8571-9d83-15cf-97faf5d5d31c",
+        "a82c4dd6-ff04-151b-4e40-fc6fad170a6f",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

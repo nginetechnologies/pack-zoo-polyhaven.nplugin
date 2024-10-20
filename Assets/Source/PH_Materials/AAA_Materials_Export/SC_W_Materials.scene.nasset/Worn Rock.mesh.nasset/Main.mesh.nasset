@@ -1,0 +1,72 @@
+{
+    "guid": "e9d5c55a-4f7f-1fc3-2a24-9ee81f6405ca",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a576fea1-4a80-77e5-1d3c-0aa7f09e95d2",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "df477fa1-eb4b-7d7f-ee8e-d34a7a325df6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Worn Rock Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "428f0a21-b357-2a72-7a62-87a2c2f6ba58",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Worn Rock Worn Rock Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "255c5972-08e3-c264-31a2-17bb1501d3fc",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Worn Rock Worn Rock"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7e1ceece-bf9d-2146-0099-1e28d04d0461",
+                                "material_instance": "2b06b6f1-b122-44d3-725c-60c9378c6652"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "7e1ceece-bf9d-2146-0099-1e28d04d0461"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "e9d5c55a-4f7f-1fc3-2a24-9ee81f6405ca"
+    },
+    "dependencies": [
+        "2b06b6f1-b122-44d3-725c-60c9378c6652",
+        "7e1ceece-bf9d-2146-0099-1e28d04d0461",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

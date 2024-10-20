@@ -1,0 +1,72 @@
+{
+    "guid": "8b074ed2-bdfe-d67d-f41f-51559347cbae",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b3214b70-53fc-2658-f4c5-8e41167d1fc3",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "eed590d7-2498-0e01-e59d-8db195248921",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Old Planks 2 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "bd0e9f72-140d-4d3e-becd-21799451bc1a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Old Planks 2 Old Planks 2 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "66c05498-c834-ea49-f50d-c3744c61da76",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Old Planks 2 Old Planks 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "93f102ab-2327-3fca-5e0e-6c21c70bcc47",
+                                "material_instance": "fe1d6298-a741-ae9b-6353-bb1b40bb39e7"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "93f102ab-2327-3fca-5e0e-6c21c70bcc47"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8b074ed2-bdfe-d67d-f41f-51559347cbae"
+    },
+    "dependencies": [
+        "fe1d6298-a741-ae9b-6353-bb1b40bb39e7",
+        "93f102ab-2327-3fca-5e0e-6c21c70bcc47",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

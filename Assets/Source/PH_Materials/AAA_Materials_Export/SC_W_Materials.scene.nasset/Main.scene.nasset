@@ -1,0 +1,230 @@
+{
+    "guid": "9aea8e94-d763-0eaa-5609-1b067034037d",
+    "source": "../SC_W_Materials.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "1ea1667a-477e-23d2-c648-bd8e8859fc4d",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC W Materials"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "42072fae-cf31-7146-d6a2-8e18d5f6edcd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Bricks Plaster"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bd75d37d-cb35-c35f-156d-e27416446fc9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1e057de2-dd09-a1ac-a9ad-87aed989153f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Chips"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ced35824-5745-5d4e-5fda-5aaa481b98d0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3f36b86b-f513-5323-c650-137bae45d483",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Deck"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "45c41527-6096-f368-d3af-8e54da12b9d3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4fabcf1f-ac00-8443-4650-44de0f76275c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Peeling"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cdf5e751-75ff-432b-0084-781112cd48c7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0046ce99-fc28-1943-7d6e-d1c3bcbf455b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Plank Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "84caa700-24a9-23c9-e64e-fde9873a292c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4bc65292-51ca-88ca-382d-3e36fb3ddca2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Planks"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "20e46971-ee06-8ea1-c3f0-ee27e0f14f01"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "67263abe-3523-90c7-70a6-3662a336c5ff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Planks Grey"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed608a36-2019-5b4d-11d6-99594dd16b9b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "25f8fce6-ef1b-50df-88af-3bb6196d587c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Planks Worn"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c37d1b51-0c1c-9412-8c36-071c739c9f32"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "32792082-f66a-4bde-1842-4ac8811315f2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Rough Planks"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3f806d7b-4961-8911-a56f-2550a72caf99"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e0df0a0f-499e-0e3c-1672-0d6df862db8b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Stone Pathway"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8b4b5aee-4e33-8cbb-ddeb-b6a231011dfc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b876c486-c259-5f44-e4be-65cdb0fff9fe",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Table"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f368639d-0458-8937-49b4-83be06aba8ca"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a216fd4f-07eb-9b72-64ca-2624994d3839",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Table Worn"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "78827ca1-f5d5-e829-8281-e0027a7328a6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b208f3bc-65a4-f3bd-028b-43d49c7ef6c6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Trunk Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f916a62a-5c57-df15-6f49-9919f0d67296"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6274c329-63d5-2956-993a-cdfdecf9f95e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Worn"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "284c55e0-dd18-036f-f3ba-1f5b5d641788"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f0594ce2-1d0f-1989-7ebb-d47f42a06797",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Worn Rock"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e9d5c55a-4f7f-1fc3-2a24-9ee81f6405ca"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9aea8e94-d763-0eaa-5609-1b067034037d"
+    },
+    "dependencies": [
+        "bd75d37d-cb35-c35f-156d-e27416446fc9",
+        "ced35824-5745-5d4e-5fda-5aaa481b98d0",
+        "45c41527-6096-f368-d3af-8e54da12b9d3",
+        "cdf5e751-75ff-432b-0084-781112cd48c7",
+        "84caa700-24a9-23c9-e64e-fde9873a292c",
+        "20e46971-ee06-8ea1-c3f0-ee27e0f14f01",
+        "ed608a36-2019-5b4d-11d6-99594dd16b9b",
+        "c37d1b51-0c1c-9412-8c36-071c739c9f32",
+        "3f806d7b-4961-8911-a56f-2550a72caf99",
+        "8b4b5aee-4e33-8cbb-ddeb-b6a231011dfc",
+        "f368639d-0458-8937-49b4-83be06aba8ca",
+        "78827ca1-f5d5-e829-8281-e0027a7328a6",
+        "f916a62a-5c57-df15-6f49-9919f0d67296",
+        "284c55e0-dd18-036f-f3ba-1f5b5d641788",
+        "e9d5c55a-4f7f-1fc3-2a24-9ee81f6405ca"
+    ]
+}

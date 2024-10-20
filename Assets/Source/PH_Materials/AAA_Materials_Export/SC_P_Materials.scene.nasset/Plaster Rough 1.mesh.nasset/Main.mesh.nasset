@@ -1,0 +1,72 @@
+{
+    "guid": "3b50f5ee-58e9-2a16-86b7-60d36644a16f",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "480e157f-6755-5871-b2bc-32c781c460e1",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "a39f1dd3-44e1-fa02-3f1e-7f0756a31a90",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plaster Rough 1 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "1d6247d6-4055-e9c9-5338-bc71986a564c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Plaster Rough 1 Plaster Rough 1 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "ab2f1275-7363-2937-ebda-a297e7605990",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Plaster Rough 1 Plaster Rough 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9a2beaf3-7966-4c41-b4ec-2fc04ac73964",
+                                "material_instance": "c369b03c-970f-8ccd-f0f4-3b3d03671a2e"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "9a2beaf3-7966-4c41-b4ec-2fc04ac73964"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "3b50f5ee-58e9-2a16-86b7-60d36644a16f"
+    },
+    "dependencies": [
+        "c369b03c-970f-8ccd-f0f4-3b3d03671a2e",
+        "9a2beaf3-7966-4c41-b4ec-2fc04ac73964",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

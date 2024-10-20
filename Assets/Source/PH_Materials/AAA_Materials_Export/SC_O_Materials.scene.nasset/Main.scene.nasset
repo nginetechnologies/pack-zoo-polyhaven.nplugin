@@ -1,0 +1,62 @@
+{
+    "guid": "0328c924-0cdb-d843-0861-c1bc9acde2c0",
+    "source": "../SC_O_Materials.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8db99788-d194-aa2a-e9cd-42821e8253a9",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC O Materials"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d0e49b49-cd78-76f5-7f89-78aebd0d5ff3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Old Planks 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8b074ed2-bdfe-d67d-f41f-51559347cbae"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "15c043a2-4708-e2b9-a8aa-f4cf990fed4b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Old Sandstone 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "200e79f5-f7bf-e3ff-0612-e838d63014e6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c1f32a3f-bd7d-0e94-a4ae-75d6d240698d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Old Wood Floor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "97af2050-319b-ec8a-bceb-e1857920987d"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0328c924-0cdb-d843-0861-c1bc9acde2c0"
+    },
+    "dependencies": [
+        "8b074ed2-bdfe-d67d-f41f-51559347cbae",
+        "200e79f5-f7bf-e3ff-0612-e838d63014e6",
+        "97af2050-319b-ec8a-bceb-e1857920987d"
+    ]
+}
