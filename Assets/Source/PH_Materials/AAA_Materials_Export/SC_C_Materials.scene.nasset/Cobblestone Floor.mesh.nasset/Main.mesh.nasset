@@ -1,0 +1,72 @@
+{
+    "guid": "a931504e-43af-dafa-606a-5f09e9c37ac8",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "2dedb1cc-1935-adaf-953f-dee0ca3b002d",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "d917d8a6-bc6b-e47e-ca07-8071fe14c79d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Floor Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "b2afb8f9-d4e4-6814-2fae-b71691ae5b62",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Cobblestone Floor Cobblestone Floor Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "41416cf3-27eb-6e6d-6670-f3af19b895d8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Cobblestone Floor Cobblestone Floor"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2ecd5c2a-8327-590e-55cd-6fed2b1ebeb9",
+                                "material_instance": "211b100b-7257-062a-7d55-c987fa2220e9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "2ecd5c2a-8327-590e-55cd-6fed2b1ebeb9"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a931504e-43af-dafa-606a-5f09e9c37ac8"
+    },
+    "dependencies": [
+        "211b100b-7257-062a-7d55-c987fa2220e9",
+        "2ecd5c2a-8327-590e-55cd-6fed2b1ebeb9",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

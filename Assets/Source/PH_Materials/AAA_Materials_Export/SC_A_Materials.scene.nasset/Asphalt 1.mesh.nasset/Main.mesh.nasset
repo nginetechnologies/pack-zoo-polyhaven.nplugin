@@ -1,0 +1,72 @@
+{
+    "guid": "6ca45c77-54d6-8a0a-1973-5466b2ed6333",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a4b4b0d4-9652-b54d-cf29-5302299e22a0",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "2d0e34ae-8c02-110b-eda0-69cb01f93195",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Asphalt 1 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "4f6af930-fa57-c981-bada-abccb1235d5b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Asphalt 1 Asphalt 1 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "59b3c913-b55a-7951-7e9d-fc7e0b455c27",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Asphalt 1 Asphalt 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ca19f437-5a3e-d2e0-887a-e4677c2197ff",
+                                "material_instance": "0208b9bc-4cb8-39b2-1a8c-079f98055879"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "ca19f437-5a3e-d2e0-887a-e4677c2197ff"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6ca45c77-54d6-8a0a-1973-5466b2ed6333"
+    },
+    "dependencies": [
+        "0208b9bc-4cb8-39b2-1a8c-079f98055879",
+        "ca19f437-5a3e-d2e0-887a-e4677c2197ff",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

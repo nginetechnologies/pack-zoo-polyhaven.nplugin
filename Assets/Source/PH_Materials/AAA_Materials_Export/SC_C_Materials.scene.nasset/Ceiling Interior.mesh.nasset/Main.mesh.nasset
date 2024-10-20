@@ -1,0 +1,72 @@
+{
+    "guid": "52b39951-2574-78bf-8e2b-e85aa28c2dce",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "24fcb05c-c0e9-9426-a7d7-42bcff62a2db",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "6b3f48c2-1fa8-1ae0-8972-9f98c727d5d4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ceiling Interior Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "ae1033ca-22a7-4194-21a3-83c5ddb2a26d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Ceiling Interior Ceiling Interior Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "f01a6697-a269-d04e-1ce5-8519c8382371",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Ceiling Interior Ceiling Interior"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2dbd9f4c-b36d-8662-fe87-85558aa30e10",
+                                "material_instance": "dd465983-c358-bb3a-847c-05f37103c839"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "2dbd9f4c-b36d-8662-fe87-85558aa30e10"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "52b39951-2574-78bf-8e2b-e85aa28c2dce"
+    },
+    "dependencies": [
+        "dd465983-c358-bb3a-847c-05f37103c839",
+        "2dbd9f4c-b36d-8662-fe87-85558aa30e10",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

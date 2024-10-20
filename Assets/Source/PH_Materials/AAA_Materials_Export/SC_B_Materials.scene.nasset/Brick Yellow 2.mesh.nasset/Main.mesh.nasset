@@ -1,0 +1,72 @@
+{
+    "guid": "96d4c86d-e6a1-6354-2f56-5b376f5c5291",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "4754328f-ca3c-7914-2816-7300a8bd61d8",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "dfd34daf-a1c0-5883-c902-a29ccc69537f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow 2 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "85c6fa39-3ca1-3669-1113-6c03f1e6061f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Brick Yellow 2 Brick Yellow 2 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "f534c8a1-130c-e3b4-6c00-cea92c022fb7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Brick Yellow 2 Brick Yellow 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b5da3bb2-c041-9817-681a-8773cb150dc6",
+                                "material_instance": "89643be3-fede-aa9b-86ca-4ecde13592b7"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "b5da3bb2-c041-9817-681a-8773cb150dc6"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "96d4c86d-e6a1-6354-2f56-5b376f5c5291"
+    },
+    "dependencies": [
+        "89643be3-fede-aa9b-86ca-4ecde13592b7",
+        "b5da3bb2-c041-9817-681a-8773cb150dc6",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

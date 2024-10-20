@@ -1,0 +1,72 @@
+{
+    "guid": "978bde4b-c3c3-0ce7-8f68-f890a81bfb64",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c28a7048-6f31-e2f8-463e-ff97ed476bc2",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "9e731e3f-f2c4-7902-a539-b9b56ff2e698",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Blue Painted Planks Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "2e091141-fdb6-2334-ec91-0a7e625fb45a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Blue Painted Planks Blue Painted Planks Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "c09ec68d-a6c6-6e20-820e-953b1f430404",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Blue Painted Planks Blue Painted Planks"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8bf3b5c2-a095-4028-2e3a-bd52f03c17ab",
+                                "material_instance": "61ce9661-485c-47e8-05c3-c5bd026b414f"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "8bf3b5c2-a095-4028-2e3a-bd52f03c17ab"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "978bde4b-c3c3-0ce7-8f68-f890a81bfb64"
+    },
+    "dependencies": [
+        "61ce9661-485c-47e8-05c3-c5bd026b414f",
+        "8bf3b5c2-a095-4028-2e3a-bd52f03c17ab",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

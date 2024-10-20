@@ -1,0 +1,90 @@
+{
+    "guid": "23a039a0-d915-2f6e-0a41-2579000cfdb6",
+    "source": "../SC_A_Materials.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "bede3d70-ea2a-3623-5cb6-050cd112d8ae",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC A Materials"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8294f09e-6b7f-a386-faae-e31f8a472bbd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Asphalt 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6ca45c77-54d6-8a0a-1973-5466b2ed6333"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d9637eee-c786-3a63-9008-7421645b9db6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Asphalt 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "748fd186-a17c-d0f8-000c-5536f80248ff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6fdd565b-72f7-0e95-beed-d40ea1bf1d11",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Asphalt 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9a47e244-164f-4105-bc3a-cb08da7c4899"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a1967584-6390-1591-ce81-aaf1d007c88b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Asphalt Floor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1fdb2c52-2a09-adbe-c567-17528a048e69"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3e0b6951-fecb-18ba-4585-67df3bedf442",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Asphalt Snow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c0d94625-1cf7-b65e-b16c-686721d286f8"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "23a039a0-d915-2f6e-0a41-2579000cfdb6"
+    },
+    "dependencies": [
+        "6ca45c77-54d6-8a0a-1973-5466b2ed6333",
+        "748fd186-a17c-d0f8-000c-5536f80248ff",
+        "9a47e244-164f-4105-bc3a-cb08da7c4899",
+        "1fdb2c52-2a09-adbe-c567-17528a048e69",
+        "c0d94625-1cf7-b65e-b16c-686721d286f8"
+    ]
+}

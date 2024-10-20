@@ -1,0 +1,944 @@
+{
+    "guid": "b33d1ca0-d853-6b42-b797-0e9a95346738",
+    "source": "../SC_C_Materials.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0c5f0bbf-448f-a7b2-ba1a-f2ba56b2a8cc",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC C Materials"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "662975c4-7329-9882-0686-116173425f52",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Castle Brick 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f4265ee6-6b61-c603-67a3-c5b38a7ea78a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ad542ef1-f1e0-cc07-b2b1-040c094432f0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Castle Brick 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2eb45d9b-d30c-3780-b177-59a028f6b567"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aae3fbfd-d554-54a2-dbbb-8a773a736896",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Castle Brick 2 White"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "25f08e0e-bdde-5ac5-89b3-ac62d3e291d6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b6ec3841-0f82-3b3e-2ce7-d4a20596bf7e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Castle Brick 7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a55b3c2f-cc31-27d2-00fb-5cc6f24ba4b5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "117c86f6-3667-797b-cecf-8f2b0da44064",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Castle Brick Broken 6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "72dcafaf-22a3-4c2c-2ea0-17f8422ad5cd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b311d2a6-fdcc-394e-03f7-cb3f5ff246f3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Castle Wall Slate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b4681c6e-ee78-0316-a443-0cb92bd39b0c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2640e2d8-eb45-bb41-d00e-48eb01d08d80",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Castle Wall Variation"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6d2ff69e-9f1d-6313-7317-b3c053c50df7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "836df5f4-a18b-9740-ead3-bc4736b8057e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ceiling Interior"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "52b39951-2574-78bf-8e2b-e85aa28c2dce"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0d97e46f-c0a7-2218-dfbb-ff952a5a8985",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ceramic Roof 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a09409b1-5b97-3437-5cd6-4a912fa4ce7d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "90630b6b-86cc-de06-eadb-0156e2ccd7b3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Church Brick 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "69ab7b3c-954e-8d87-99c8-242b1abc013a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cbecfcd3-3d8f-0857-c231-2dad38eccca8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Clay Floor 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "803567ca-86cb-97f9-7bab-7b4f99f4d396"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c74496a1-135a-f675-db06-dfe83aeb3785",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Clean Pebbles"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9f659a1d-7cee-603e-2937-846717158e76"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9316ae20-5fe8-52f4-15a4-0c7c1218a058",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coast Land Rocks 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0ffc0ee8-72dd-e213-e4bc-1a589b826de2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "446d41d7-aa28-b5f0-f503-7d6d410837cb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coast Sand 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "91adc75c-fe45-38ab-9789-c056787c1a0e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5eb060e2-df57-879f-8834-db6d964f55ab",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coast Sand 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2eb3ec5e-8a48-0041-c052-8e5254a87212"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ff1ed8e8-d536-5cae-1400-f5f5136f9ac1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coast Sand 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "064fcd23-63f5-33b6-368f-e7d9e25c2cbc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "03f56289-ac1b-b872-a6e4-bdbf4d43ffff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coast Sand 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4ec70e24-f852-fd4b-c768-53db80dcffde"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e678868e-ee92-7d18-1c28-2ea75fbd9c56",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coast Sand 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5412dcae-535f-ab23-ce61-e23f65328d70"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6b10a4ce-dd61-438c-fdf4-01e41b356725",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coast Sand Rocks 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8a0ee8ed-bc9c-519a-2d21-3402a84dc130"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6521bcd7-becc-5498-f2c8-6ed90a375799",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1c2d9999-472e-0fcb-e16f-1e4e47772ab3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a2babfc2-3e7e-e483-fffd-d865835532a4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "88ce88a1-f99f-ceee-d087-012433272a46"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c7f1adef-5ca9-8229-19a5-10ac8212b6f2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Color"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a426b12c-8bf3-08ce-4b82-a2fb2268b1e0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3248cd52-5cb1-4648-8116-f0e28549ac15",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Floor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a931504e-43af-dafa-606a-5f09e9c37ac8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8d9b97a8-1296-6744-d309-8a2f471a66b4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Floor 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43078a56-7732-3337-a167-0c75bb0f903a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "17d35e3e-e7c8-b894-f2db-c86f09f5e5ff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Floor 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "592b1b6a-b10f-e49c-b876-1777180af981"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "462a6066-f91c-7cef-9ccb-82494100911c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Floor 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3b5099f6-4f47-8c26-bbcc-4c2e3c3f7f70"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3dcb5843-cc92-941a-fb59-b8bf2bec078f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Floor 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2568c677-c0af-7c4d-07f4-672a56672393"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5deae591-ede9-f5e4-c46a-70fa021b5b8e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Floor 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aaf3aa1e-80d4-d01d-7830-c9bbf4ca987f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1c3618fa-e5ba-e912-f578-6c5a39e5a649",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Floor 7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e7837657-e652-12ab-9b3f-fc8abe455dda"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "65aa78dc-5798-bcf4-7f4e-d04bf2e60794",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Floor 8"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ec550f84-d2a7-d16b-4254-736ff00a040a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dbf2fa74-cfaf-2c78-c761-b152c0dba7ff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Floor 13"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0750e53e-cd1d-de8f-dbcb-80bbc8793962"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4f00ef78-b801-bb8a-9f55-0e744513c2b5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Large 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c88f5415-a908-9f08-c51b-5746da86bd43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ae691db8-5ff3-ed27-eb4a-cd07fb04b24a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Square 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3e4e94c7-e8ef-5e64-ceb8-c1627e9f465b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "72be4ae7-cb36-dba2-958d-80108bd70d12",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Square 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5f592866-a71c-850f-e165-24a5161358c3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "69ec57fd-daa4-b373-f74e-a739300333c9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Brick Wall 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b1480974-4dcf-ccc7-9d6e-bd39b780d52a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c259c826-3417-3f2b-e6ff-578676580278",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Debris"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5826ff39-47e6-559d-1d93-02a32e177d8d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e022a920-a03f-b423-39ab-6448af2b2a2c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Floor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c12324b8-7a68-0d8d-8320-3023ed45c9a1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "98081b3f-835e-1201-d03f-7bb189b17632",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Floor 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "21f3aacd-dffe-d615-8cfb-b102d75283aa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8b0626c8-fa15-9726-de32-c6b55b9e192d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Floor 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c1a0e704-205b-aad8-87d1-7d5881aaf74a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d7eb9fa2-23bd-4ccd-7082-50c266ae7b79",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Floor Painted"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "259dfc67-2777-726f-5851-636d253a8f20"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f732e08c-55d2-97b9-834f-7b8eb79c6f4d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Floor Worn 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0934d7b1-c996-f968-ae85-9c538c3a7c59"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2b83f99c-a1a6-c4ec-e823-8c449d0992e4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Layers 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8b6d60fe-6110-efe4-344e-9213c650e279"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f78bcbd3-7f10-89e7-440b-f6a9a9808899",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Painted"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c146e147-f864-b584-f69e-04da145cb7d0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "66dbc947-4a7e-49aa-f1ac-599b96e9b672",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Pavers"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c944e4da-9297-9741-765e-a5d6d9cc8dde"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cec9d39b-72bf-4f78-3f18-49300e845a3a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Pavers Square"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c82eaa9c-d2f5-9db8-ff9e-69a0eebad20f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "65bd0154-881a-8fbd-42a4-10761e878696",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Poured"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "eb61f795-1fe9-17ef-8e80-574bf680dd7b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aa2dc127-d036-e8b1-7b2d-f97e3cc04527",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Rock Embed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c2d21041-fa86-4335-a56c-73b73c42f01a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cddbb342-b9cc-96b9-a914-e1a0dc5b4f43",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Rock Path"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "10f1bc3e-70a7-7a16-8b57-28d304c588b3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2823289c-17a6-d879-82ef-40624846df56",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Rough"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01309eac-536a-1d41-3ef4-96448133dcf5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7166f841-2367-fa64-2df1-67cf2ec465d2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Wall 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4a12363-5d3d-b46d-ad48-652ec58b5a2e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2bcfc423-900b-ca44-363c-8268388702a9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Wall 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e46c0822-1670-1b9a-42ed-bf0c8001ef00"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "17022dac-5847-769c-8f6a-5aace3166c27",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Wall 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e0443ff6-dba7-cfd4-c39a-ede249db095a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "36349650-0f08-f4eb-b62c-4fc5a8263ff8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Wall 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "55fb632e-4b6f-8962-cff0-cbcda8fe854a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3a0fd582-bcaf-5c03-ec90-842dcbebca54",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Wall 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "670bc1ab-afb0-16d3-86f1-09009990f4ad"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "19f8333b-8846-926f-6eae-0f26f4a6aa7e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Wall 6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2d1594db-eaf3-31aa-d5ac-e2a940a36b93"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "557348ec-3a87-69e9-7fc7-2a8858e70b1a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Wall 7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "efd7d90b-6047-d2f7-8098-fa0e46e1d464"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "57af50f6-d8e2-0ccd-de5d-2ed626664e63",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Wall 8"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2ccf5df7-94ef-7ae5-463d-5846c1d68e7b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1dacd340-5527-b250-cf74-f1ebadc559e3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Container Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "58317a7c-9fb8-ecfb-d535-2d016b0659d2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b1b1a6e9-8455-85f8-5b5d-fd85b9c3a655",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coral Fort Wall 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "84317930-f94d-2cd5-41ac-b5e2a76dfecd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "91785c2c-be02-9c79-a37d-d2448ce1cfa5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coral Fort Wall 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5fa90c4b-51fa-a88e-591b-a5572d239d1b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8d551be6-7383-7822-ffb5-928a62ca58d9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coral Fort Wall 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e358eedd-6a0e-8c39-7e39-d744c9d53fee"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d3b8953f-b719-fe50-e3c2-c4d037ee9529",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coral Gravel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3f5a664a-649b-b77f-fabf-6bce1d2ca635"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e3b2d79e-9d87-c182-2d78-d10e82ddbc94",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coral Ground 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "423338cf-b714-5355-240c-31d98adbec87"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "62192e6f-e8c2-5a25-0db8-fcfd1ea90a3a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coral Mud 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bda757d7-27fb-3d08-50e1-7743cc2d46e3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "336d5756-413d-f50a-d60b-1ceb826ff207",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cracked Concrete Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "16b45941-3b56-b739-819d-59584459fc28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b975ac55-641c-16ee-5e28-3d59ca08c64a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cracked Red Ground"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5719251e-4e71-7114-9b68-aa419ac96b2a"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b33d1ca0-d853-6b42-b797-0e9a95346738"
+    },
+    "dependencies": [
+        "f4265ee6-6b61-c603-67a3-c5b38a7ea78a",
+        "2eb45d9b-d30c-3780-b177-59a028f6b567",
+        "25f08e0e-bdde-5ac5-89b3-ac62d3e291d6",
+        "a55b3c2f-cc31-27d2-00fb-5cc6f24ba4b5",
+        "72dcafaf-22a3-4c2c-2ea0-17f8422ad5cd",
+        "b4681c6e-ee78-0316-a443-0cb92bd39b0c",
+        "6d2ff69e-9f1d-6313-7317-b3c053c50df7",
+        "52b39951-2574-78bf-8e2b-e85aa28c2dce",
+        "a09409b1-5b97-3437-5cd6-4a912fa4ce7d",
+        "69ab7b3c-954e-8d87-99c8-242b1abc013a",
+        "803567ca-86cb-97f9-7bab-7b4f99f4d396",
+        "9f659a1d-7cee-603e-2937-846717158e76",
+        "0ffc0ee8-72dd-e213-e4bc-1a589b826de2",
+        "91adc75c-fe45-38ab-9789-c056787c1a0e",
+        "2eb3ec5e-8a48-0041-c052-8e5254a87212",
+        "064fcd23-63f5-33b6-368f-e7d9e25c2cbc",
+        "4ec70e24-f852-fd4b-c768-53db80dcffde",
+        "5412dcae-535f-ab23-ce61-e23f65328d70",
+        "8a0ee8ed-bc9c-519a-2d21-3402a84dc130",
+        "1c2d9999-472e-0fcb-e16f-1e4e47772ab3",
+        "88ce88a1-f99f-ceee-d087-012433272a46",
+        "a426b12c-8bf3-08ce-4b82-a2fb2268b1e0",
+        "a931504e-43af-dafa-606a-5f09e9c37ac8",
+        "43078a56-7732-3337-a167-0c75bb0f903a",
+        "592b1b6a-b10f-e49c-b876-1777180af981",
+        "3b5099f6-4f47-8c26-bbcc-4c2e3c3f7f70",
+        "2568c677-c0af-7c4d-07f4-672a56672393",
+        "aaf3aa1e-80d4-d01d-7830-c9bbf4ca987f",
+        "e7837657-e652-12ab-9b3f-fc8abe455dda",
+        "ec550f84-d2a7-d16b-4254-736ff00a040a",
+        "0750e53e-cd1d-de8f-dbcb-80bbc8793962",
+        "c88f5415-a908-9f08-c51b-5746da86bd43",
+        "3e4e94c7-e8ef-5e64-ceb8-c1627e9f465b",
+        "5f592866-a71c-850f-e165-24a5161358c3",
+        "b1480974-4dcf-ccc7-9d6e-bd39b780d52a",
+        "5826ff39-47e6-559d-1d93-02a32e177d8d",
+        "c12324b8-7a68-0d8d-8320-3023ed45c9a1",
+        "21f3aacd-dffe-d615-8cfb-b102d75283aa",
+        "c1a0e704-205b-aad8-87d1-7d5881aaf74a",
+        "259dfc67-2777-726f-5851-636d253a8f20",
+        "0934d7b1-c996-f968-ae85-9c538c3a7c59",
+        "8b6d60fe-6110-efe4-344e-9213c650e279",
+        "c146e147-f864-b584-f69e-04da145cb7d0",
+        "c944e4da-9297-9741-765e-a5d6d9cc8dde",
+        "c82eaa9c-d2f5-9db8-ff9e-69a0eebad20f",
+        "eb61f795-1fe9-17ef-8e80-574bf680dd7b",
+        "c2d21041-fa86-4335-a56c-73b73c42f01a",
+        "10f1bc3e-70a7-7a16-8b57-28d304c588b3",
+        "01309eac-536a-1d41-3ef4-96448133dcf5",
+        "c4a12363-5d3d-b46d-ad48-652ec58b5a2e",
+        "e46c0822-1670-1b9a-42ed-bf0c8001ef00",
+        "e0443ff6-dba7-cfd4-c39a-ede249db095a",
+        "55fb632e-4b6f-8962-cff0-cbcda8fe854a",
+        "670bc1ab-afb0-16d3-86f1-09009990f4ad",
+        "2d1594db-eaf3-31aa-d5ac-e2a940a36b93",
+        "efd7d90b-6047-d2f7-8098-fa0e46e1d464",
+        "2ccf5df7-94ef-7ae5-463d-5846c1d68e7b",
+        "58317a7c-9fb8-ecfb-d535-2d016b0659d2",
+        "84317930-f94d-2cd5-41ac-b5e2a76dfecd",
+        "5fa90c4b-51fa-a88e-591b-a5572d239d1b",
+        "e358eedd-6a0e-8c39-7e39-d744c9d53fee",
+        "3f5a664a-649b-b77f-fabf-6bce1d2ca635",
+        "423338cf-b714-5355-240c-31d98adbec87",
+        "bda757d7-27fb-3d08-50e1-7743cc2d46e3",
+        "16b45941-3b56-b739-819d-59584459fc28",
+        "5719251e-4e71-7114-9b68-aa419ac96b2a"
+    ]
+}

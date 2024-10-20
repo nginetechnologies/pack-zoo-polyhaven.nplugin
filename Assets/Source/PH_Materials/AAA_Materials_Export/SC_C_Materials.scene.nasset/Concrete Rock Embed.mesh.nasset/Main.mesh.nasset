@@ -1,0 +1,72 @@
+{
+    "guid": "c2d21041-fa86-4335-a56c-73b73c42f01a",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "4d18a1ab-6894-70f0-346f-6cd8e0652cdc",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "963dff6b-60ea-f515-897a-3bc25fd1981e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Rock Embed Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "d0963a28-d0c5-9894-2dda-b0d6f61da52f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Concrete Rock Embed Concrete Rock Embed Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "eabdecf6-70d4-5961-b0d3-4e03b8d6e341",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Concrete Rock Embed Concrete Rock Embed"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "04f5baf6-d57e-ffcd-9d03-55d9a004aa85",
+                                "material_instance": "18961943-caa0-b52a-989b-6d607967bf2c"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "04f5baf6-d57e-ffcd-9d03-55d9a004aa85"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "c2d21041-fa86-4335-a56c-73b73c42f01a"
+    },
+    "dependencies": [
+        "18961943-caa0-b52a-989b-6d607967bf2c",
+        "04f5baf6-d57e-ffcd-9d03-55d9a004aa85",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

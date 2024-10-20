@@ -1,0 +1,57 @@
+{
+    "guid": "48291abd-a544-1b42-b916-84127a54fa77",
+    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+    "instanceGuid": "7717fc59-9d49-b501-9740-6bad00ea1793",
+    "data_components": [
+        {
+            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+            "type": 0
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "c11af989-b8ab-5200-ded1-d0d1694d7be1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mesh Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "065a09c6-5a4b-76c9-80e8-bd8e291e019b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Mesh"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "48291abd-a544-1b42-b916-84127a54fa77",
+                        "material_instance": "c0eb7758-8635-d425-733d-61299cb22cf8"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "48291abd-a544-1b42-b916-84127a54fa77"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+        }
+    ],
+    "dependencies": [
+        "c0eb7758-8635-d425-733d-61299cb22cf8",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ],
+    "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+    "tags": [
+        "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+    ]
+}

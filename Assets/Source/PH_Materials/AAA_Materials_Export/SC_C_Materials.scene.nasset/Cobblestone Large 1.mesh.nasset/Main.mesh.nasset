@@ -1,0 +1,72 @@
+{
+    "guid": "c88f5415-a908-9f08-c51b-5746da86bd43",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "dda084f1-f3dc-51ad-4de9-e4c75e3643f0",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "425e745e-8e73-0897-255e-2dd99cb4a941",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cobblestone Large 1 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "648eef09-97d4-64a2-7447-3d1eb1770f86",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Cobblestone Large 1 Cobblestone Large 1 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "50df4ada-394a-b93f-7b99-b4be6e784b88",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Cobblestone Large 1 Cobblestone Large 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4c597655-8576-fbbc-5660-946e6ace4e9d",
+                                "material_instance": "ba9530bd-169d-a41d-69d3-0a878989a533"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "4c597655-8576-fbbc-5660-946e6ace4e9d"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "c88f5415-a908-9f08-c51b-5746da86bd43"
+    },
+    "dependencies": [
+        "ba9530bd-169d-a41d-69d3-0a878989a533",
+        "4c597655-8576-fbbc-5660-946e6ace4e9d",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

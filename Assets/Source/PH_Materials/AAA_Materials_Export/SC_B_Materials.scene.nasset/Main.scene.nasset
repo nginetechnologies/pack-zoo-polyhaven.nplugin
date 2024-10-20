@@ -1,0 +1,748 @@
+{
+    "guid": "52bfe00b-38e1-36bd-3d56-32f0345efa45",
+    "source": "../SC_B_Materials.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b522bbbc-8fae-7fc6-2496-ba16681a81f2",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC B Materials"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "58d67ced-0429-9798-6bc7-4b9a6d3bfd15",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bark Brown 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "181bfe6f-f0ed-0d16-b3ba-c16049404062"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "99606f57-b8d7-6cf7-7595-ec053e99782f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bark Brown 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcfa8896-47dc-d001-ee4e-2a0015b160ff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "94162600-10e7-7e47-437d-4b5fa1f9969f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bark Camphor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "82a3dc8e-8391-255d-2839-679177abb124"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2731dbc7-0001-7efb-2ece-1afbd497fb3e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bark Hackberry"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c63608c8-4f7b-5910-1852-36859ad2f81b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b045b367-a003-9f36-b906-b2a4436be561",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bark Oak"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1fa75b4a-921f-b641-d368-8d39f6e23de1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b3474984-c6cc-f391-2814-cc2097a88d1d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bark Palm"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "55404883-b63b-00fe-b090-40fc52a0d570"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0de5ec22-5777-4398-ee30-d4a12db91a42",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bark Sakura"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f10d0f3c-740a-3753-a4cf-454f7412de46"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "14ea9b0e-8bb4-b348-6ea5-4d22a4b08db1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bark Sycamore"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f25effa2-aa2a-0dcb-d176-95a3691137eb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3b5a534a-ccab-9316-904b-6bdd886b63d1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bark Willow 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "19366ea7-7c74-eaec-58f0-1f4a7dddb6a6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9a423e86-8869-87d8-72e8-511e0626cd27",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bark Willow 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e2128b25-69fe-55ef-f0a7-434763b05c0f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4213eff1-f756-c96c-1218-44041edc11fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Baseball Playground"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6d7a0620-6843-c707-dd09-ae10cfbf5783"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "946f011a-3f2c-c8b6-ac8b-ca080d283141",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Beam Wall 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d84cb847-9fb6-f7d6-bdd3-82cf6ab3a7e3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "81000a6e-a5db-9068-952a-b394a0edac93",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Beige Wall 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "15995727-fde5-fe55-b4d3-365a4db842a4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "49aa64c3-5e4b-da0e-2138-54ad33e4e22a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Beige Wall 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9918ef42-e996-950d-387c-0904f6d3c7e7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8dc95a67-0eff-c4e9-7c81-6020ff693c5e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Blue Floor Tiles 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "98984644-0041-66a9-8f1b-bf2b57451f2d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b5ec486e-246c-c279-bd19-c95bf772fc76",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Blue Painted Planks"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "978bde4b-c3c3-0ce7-8f68-f890a81bfb64"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1005c266-2aed-2ff1-8d5c-6b9ce30eb0e6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Book Pattern"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "47a82572-25b4-546c-73bd-06580aaf9d53"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5ed1831b-c828-9908-6f04-94bd5724569f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "64f3e7d5-a138-26ec-4123-7a06fcc7bd0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c77229d4-2b03-e50b-ec05-38f8c62c0a40",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Floor 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a1d274d1-6867-1c3f-41b7-cb0b9e1822a1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fe4d1849-e295-10b1-3398-b91aecc51c06",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Floor 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cdb05349-39db-5696-9ad8-1dbef227e88f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "38717381-14a4-5950-f84e-418b7288d661",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Floor 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "53c63c75-2445-44f1-6bff-b180a641fb88"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d900b5d3-f0e9-b8bf-6fa7-82c374f9d881",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Moss 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "81ef50d4-c90d-3100-6868-95543a4d7426"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bf77071d-ae57-cddb-41f6-bfd6aa694082",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Stenciled"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6b73f56d-fd2e-5eca-a8c2-6be0e36db094"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2224d803-455e-46e4-1380-82e23055942b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Wall 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "64fd7954-6f69-c7ab-e442-ef40b3287145"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8ebfe747-3857-f084-baae-6a4e5b336d3e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Wall 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "873c58cf-2804-e4b9-bf9c-4b67bea69922"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "00cd6de7-5f63-4f8c-be30-8a0b5a9e197d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Wall 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "93df00aa-b5a7-bb04-2f1b-70b70525af4b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "69ab9e4d-e822-52e1-9254-2f5490e7de36",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Wall 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6f079f16-dfb1-c60c-0aa0-8cb663e2cedd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1698da2f-ad3a-b852-ad91-3b9e289af922",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Wall 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2346d63b-b70a-7c99-4459-f2e5f630d106"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "454b1a22-e1d7-6c9c-95ec-1b2c0c0a85be",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Wall 6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "51d2be0a-93fc-146d-d7cf-fd4c437047e1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "55198a7b-c715-0a67-2b69-bff81ddc159a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7f4f084c-5f32-9e9b-f363-7100203864d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6621c3f9-efa6-86dc-4c49-0ab459b7e411",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "96d4c86d-e6a1-6354-2f56-5b376f5c5291"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "da5bdf5a-25a2-f999-031b-62a75bb8f0d6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bricks Short"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0598b115-509f-72ff-36b9-ec5cf76f6cea"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5911af85-1ea4-7fe1-fe0d-8bd6978ab8cf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bricks White"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c2a5323d-a977-8253-71d8-6e8c2b531f6b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "66a186a3-bc70-945e-6530-d533edbc6ff4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Broken Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c64e8c64-59b1-c48b-5941-2a0969c079ed"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "30b31043-6880-aee7-c66e-704e59e176e2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Brick 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ea9b0515-8a96-0eb3-cffe-17378dabe591"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "863fdb88-79b8-9ac9-e5e1-f0d22a031a11",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Leather"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d69ece46-1f10-c4fa-2a98-df37e0abddcb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c9ba7d14-5f5c-64ca-fc82-b4344a0dfae9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Mud 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0f120853-4e64-b428-cf64-a1e29fc3ff96"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1927bfd1-055e-4d96-7858-78608554f8cf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Mud 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "23ae6680-e469-8da9-d020-e34d7af65174"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7ca5446c-3917-2071-1aeb-79223e6e06f1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Mud 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7872e5f9-87b9-8bd3-2563-f78a75903acb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0f4cd9eb-d7dd-9591-cfcf-a96b7c3464da",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Mud Dry"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "660c71d2-fe32-6125-d1ea-8a9a722efd77"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3750e70c-af77-9054-dbb4-54244629abed",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Mud Leaves 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8066635e-1967-9bca-349a-3ced5dc8c1ef"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "99fa8d62-d910-684c-0495-8bb4d2779d8f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Mud Rocks 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5db41b54-e5b8-0ac7-914f-0b7aada0524d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "601922d3-865d-bc30-790f-db33b29b664f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Planks 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "84669246-7443-2add-c662-9886a91e0a07"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dcb43299-9131-32c5-3179-50e764bcf2c3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Planks 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "be18f918-e152-77e8-275e-61f099ce7415"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c43e2e51-e2cd-2ef6-8507-6079e8d8c6be",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Planks 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "02e33119-3364-b85a-3073-244fcf448ef3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dc923cbd-491d-0314-af21-9b5696dd4066",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Planks 7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "438d49f3-353b-dba9-1bf1-cc406d96ae06"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7c0f650a-7be5-18a2-360b-68e8d1e23d3e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Planks 8"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d57f18ce-c5fc-6783-c6c9-1cd7885866a9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "733edd3d-967a-5265-8436-d7e72a71ccb5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brown Planks 9"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dfe4f904-111e-c183-2ecb-3569cd8d2ec1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "16e5ca41-fbfd-42dc-16ec-b71e1f565505",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brushed Concrete 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bd246ffd-8617-f8f3-0814-495e4772b481"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9648f88c-0b44-32ca-021e-31f6d3a0129c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brushed Concrete 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1b05d099-6b19-258a-4a3b-a233ed72ffea"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f834ceae-8972-23c6-9cc9-6605d161149e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brushed Concrete 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8559c597-748f-b3bd-108f-d4ec8223dea0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1c2485a8-1907-bc6e-3797-2045d661d14b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Burned Ground"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f41dff06-d64d-9c3a-2f3e-75021e48780b"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "52bfe00b-38e1-36bd-3d56-32f0345efa45"
+    },
+    "dependencies": [
+        "181bfe6f-f0ed-0d16-b3ba-c16049404062",
+        "bcfa8896-47dc-d001-ee4e-2a0015b160ff",
+        "82a3dc8e-8391-255d-2839-679177abb124",
+        "c63608c8-4f7b-5910-1852-36859ad2f81b",
+        "1fa75b4a-921f-b641-d368-8d39f6e23de1",
+        "55404883-b63b-00fe-b090-40fc52a0d570",
+        "f10d0f3c-740a-3753-a4cf-454f7412de46",
+        "f25effa2-aa2a-0dcb-d176-95a3691137eb",
+        "19366ea7-7c74-eaec-58f0-1f4a7dddb6a6",
+        "e2128b25-69fe-55ef-f0a7-434763b05c0f",
+        "6d7a0620-6843-c707-dd09-ae10cfbf5783",
+        "d84cb847-9fb6-f7d6-bdd3-82cf6ab3a7e3",
+        "15995727-fde5-fe55-b4d3-365a4db842a4",
+        "9918ef42-e996-950d-387c-0904f6d3c7e7",
+        "98984644-0041-66a9-8f1b-bf2b57451f2d",
+        "978bde4b-c3c3-0ce7-8f68-f890a81bfb64",
+        "47a82572-25b4-546c-73bd-06580aaf9d53",
+        "64f3e7d5-a138-26ec-4123-7a06fcc7bd0d",
+        "a1d274d1-6867-1c3f-41b7-cb0b9e1822a1",
+        "cdb05349-39db-5696-9ad8-1dbef227e88f",
+        "53c63c75-2445-44f1-6bff-b180a641fb88",
+        "81ef50d4-c90d-3100-6868-95543a4d7426",
+        "6b73f56d-fd2e-5eca-a8c2-6be0e36db094",
+        "64fd7954-6f69-c7ab-e442-ef40b3287145",
+        "873c58cf-2804-e4b9-bf9c-4b67bea69922",
+        "93df00aa-b5a7-bb04-2f1b-70b70525af4b",
+        "6f079f16-dfb1-c60c-0aa0-8cb663e2cedd",
+        "2346d63b-b70a-7c99-4459-f2e5f630d106",
+        "51d2be0a-93fc-146d-d7cf-fd4c437047e1",
+        "7f4f084c-5f32-9e9b-f363-7100203864d1",
+        "96d4c86d-e6a1-6354-2f56-5b376f5c5291",
+        "0598b115-509f-72ff-36b9-ec5cf76f6cea",
+        "c2a5323d-a977-8253-71d8-6e8c2b531f6b",
+        "c64e8c64-59b1-c48b-5941-2a0969c079ed",
+        "ea9b0515-8a96-0eb3-cffe-17378dabe591",
+        "d69ece46-1f10-c4fa-2a98-df37e0abddcb",
+        "0f120853-4e64-b428-cf64-a1e29fc3ff96",
+        "23ae6680-e469-8da9-d020-e34d7af65174",
+        "7872e5f9-87b9-8bd3-2563-f78a75903acb",
+        "660c71d2-fe32-6125-d1ea-8a9a722efd77",
+        "8066635e-1967-9bca-349a-3ced5dc8c1ef",
+        "5db41b54-e5b8-0ac7-914f-0b7aada0524d",
+        "84669246-7443-2add-c662-9886a91e0a07",
+        "be18f918-e152-77e8-275e-61f099ce7415",
+        "02e33119-3364-b85a-3073-244fcf448ef3",
+        "438d49f3-353b-dba9-1bf1-cc406d96ae06",
+        "d57f18ce-c5fc-6783-c6c9-1cd7885866a9",
+        "dfe4f904-111e-c183-2ecb-3569cd8d2ec1",
+        "bd246ffd-8617-f8f3-0814-495e4772b481",
+        "1b05d099-6b19-258a-4a3b-a233ed72ffea",
+        "8559c597-748f-b3bd-108f-d4ec8223dea0",
+        "f41dff06-d64d-9c3a-2f3e-75021e48780b"
+    ]
+}

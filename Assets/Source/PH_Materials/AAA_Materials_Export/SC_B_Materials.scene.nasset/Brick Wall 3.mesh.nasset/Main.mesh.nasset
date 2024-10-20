@@ -1,0 +1,72 @@
+{
+    "guid": "93df00aa-b5a7-bb04-2f1b-70b70525af4b",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "7d0c803c-e549-1132-fc64-dbd737bd5b3b",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "1bff35b2-be86-4a84-5d72-2ea0e6f4d6c4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Wall 3 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "55eea52c-dae6-8996-3d22-58556db8b181",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Brick Wall 3 Brick Wall 3 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "d51bfaae-12a1-eb80-56a2-fbbb12d10b15",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Brick Wall 3 Brick Wall 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "482f8a85-a6dc-94d0-bc88-2f9baaa216c7",
+                                "material_instance": "b84effcb-95ca-c34e-9c1c-53c7e6527da6"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "482f8a85-a6dc-94d0-bc88-2f9baaa216c7"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "93df00aa-b5a7-bb04-2f1b-70b70525af4b"
+    },
+    "dependencies": [
+        "b84effcb-95ca-c34e-9c1c-53c7e6527da6",
+        "482f8a85-a6dc-94d0-bc88-2f9baaa216c7",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

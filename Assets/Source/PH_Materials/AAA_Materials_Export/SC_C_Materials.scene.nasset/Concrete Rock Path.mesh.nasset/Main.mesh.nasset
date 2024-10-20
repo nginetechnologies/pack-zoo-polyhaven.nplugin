@@ -1,0 +1,72 @@
+{
+    "guid": "10f1bc3e-70a7-7a16-8b57-28d304c588b3",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8bb8d1f0-efac-4ee1-965f-0e9de480b269",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "6294cb12-040d-a15c-6066-a6bdceed750c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Rock Path Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "a7bcda87-8c56-b538-9f38-138dee18d0d9",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Concrete Rock Path Concrete Rock Path Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "02469a43-81df-a95e-fe65-b500f2d3efe5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Concrete Rock Path Concrete Rock Path"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bd315db4-1bf8-1314-5130-d6282f0fe52e",
+                                "material_instance": "6e23a535-29c5-cdc5-4096-314d0adec0c3"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "bd315db4-1bf8-1314-5130-d6282f0fe52e"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "10f1bc3e-70a7-7a16-8b57-28d304c588b3"
+    },
+    "dependencies": [
+        "6e23a535-29c5-cdc5-4096-314d0adec0c3",
+        "bd315db4-1bf8-1314-5130-d6282f0fe52e",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "guid": "c1a0e704-205b-aad8-87d1-7d5881aaf74a",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0e4ec88a-c10c-2015-09d7-39d4a3d03f3d",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "c3a1cd5a-548c-39d1-4330-b6002a0409ce",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Concrete Floor 2 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "b2ad6060-84f2-62f3-34c9-90cc2c85a758",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Concrete Floor 2 Concrete Floor 2 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "f958e43d-6b19-0727-67ff-da3ebce4b3b5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Concrete Floor 2 Concrete Floor 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7d486e93-5e50-fcdf-3114-76cd2bd7de47",
+                                "material_instance": "36888d48-406a-8dbd-9df1-2f501e1053db"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "7d486e93-5e50-fcdf-3114-76cd2bd7de47"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "c1a0e704-205b-aad8-87d1-7d5881aaf74a"
+    },
+    "dependencies": [
+        "36888d48-406a-8dbd-9df1-2f501e1053db",
+        "7d486e93-5e50-fcdf-3114-76cd2bd7de47",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}
